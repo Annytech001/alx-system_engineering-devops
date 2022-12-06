@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3iacta | tail -i
+head -3iacta | tail -1
