@@ -8,4 +8,5 @@ Isolating the issue
 Examine the code
 Using Dubug Tool
 Fixing the Issue
+![web stack ](https://github.com/Annytech001/alx-system_engineering-devops/assets/117596977/6f1298bd-3988-4fed-bd19-d8ad5630d305)
 
