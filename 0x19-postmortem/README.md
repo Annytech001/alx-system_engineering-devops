@@ -3,6 +3,7 @@ A postmortem is a systematic review or analysis conducted after a project, event
 
 In various contexts, such as software development, project management, or business operations, postmortems help teams reflect on their performance, identify areas for improvement, and implement changes to enhance future outcomes. They typically involve gathering feedback from team members, stakeholders, and relevant data sources, and then synthesizing this information to draw conclusions and actionable insights. The ultimate goal is to foster continuous improvement and avoid repeating mistakes
 
+![Incident mangament  2 Medium](https://github.com/Annytech001/alx-system_engineering-devops/assets/117596977/ea8648b0-12da-40a3-a2e2-43c85b50286a)
 
 
 Summary 
