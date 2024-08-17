@@ -1,0 +1,1 @@
+ postmortem is a systematic review or analysis conducted after a project, event, or process has concluded, especially if it didn't go as planned or if there were notable successes and failures. The purpose of a postmortem is to assess what worked well, what didn't, and what lessons can be learned for future endeavors.
