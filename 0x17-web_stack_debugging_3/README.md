@@ -1,3 +1,5 @@
+(![web dub 2](https://github.com/user-attachments/assets/d0121643-5719-44d0-8fdd-8d9b451f15c8)
+)
 Web stack debugging is the process of finding and fixing problems in a web application. A web application usually has different parts:
 
 Frontend (Client-Side): What you see and interact with on a website (e.g., buttons, text).
