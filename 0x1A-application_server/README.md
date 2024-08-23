@@ -1,1 +1,0 @@
-An application server is a software framework that provides both the facilities to create web applications and a server environment to run them. It acts as a middle layer between the operating system and the application, often interfacing with web servers, databases, and other systems to facilitate the development and deployment of applications.
